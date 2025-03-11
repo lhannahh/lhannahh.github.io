@@ -12,8 +12,7 @@ lhannahh.github.io/portfolio
 - Behavior Technician, Compass Counseling Services of Virginia
 
 ### Projects
-- Predicting Mental Health Status Using Sentiment Analysis & Classification
-  [Publication](https://github.com/lhannahh/Data-Science-AI-Capstone-Project)
+- [Predicting Mental Health Status Using Sentiment Analysis & Classification](https://github.com/lhannahh/Data-Science-AI-Capstone-Project)
 - Detecting Bank Fraud with Machine Learning: K-Means Clustering (with PCA), Decision Tree
 - Mental Health & Music Engagement: Logistic Regression & SVM
 - Sleep Quality: Hypothesis Testing
