@@ -1,4 +1,4 @@
-# lhannahh.github.io
+# Laura Hannah's Portfolio
 lhannahh.github.io/portfolio
 # Data Scientist
 
