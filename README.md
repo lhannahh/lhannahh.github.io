@@ -13,6 +13,7 @@ lhannahh.github.io/portfolio
 
 ### Projects
 - Predicting Mental Health Status Using Sentiment Analysis & Classification
+  [Publication](https://github.com/lhannahh/Data-Science-AI-Capstone-Project)
 - Detecting Bank Fraud with Machine Learning: K-Means Clustering (with PCA), Decision Tree
 - Mental Health & Music Engagement: Logistic Regression & SVM
 - Sleep Quality: Hypothesis Testing
