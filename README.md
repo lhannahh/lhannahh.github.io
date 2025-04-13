@@ -1,6 +1,6 @@
 # Laura Hannah's Portfolio
 lhannahh.github.io/portfolio
-# Data Scientist
+# Data Science Professional
 
 ### Education
 - BS Psycgological Science, University of Mary Washington
