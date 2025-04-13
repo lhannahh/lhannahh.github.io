@@ -1,7 +1,7 @@
 title: Laura Hannah
 logo: "https://raw.githubusercontent.com/lhannahh/lhannahh.github.io/main/Linked%20In%20Headshot%202025.jpg"
 description: Welcome to my Data Science Portfolio!
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal
 
 defaults:
