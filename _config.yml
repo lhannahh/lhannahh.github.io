@@ -3,8 +3,5 @@ logo: "https://raw.githubusercontent.com/lhannahh/lhannahh.github.io/main/Linked
 description: Welcome to Laura Hannah's Data Science Portfolio
 show_downloads: false
 theme: jekyll-theme-minimal
-
-sass:
-  style: compressed
 include:
-  - assets/css
+  - assets
